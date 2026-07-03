@@ -3,6 +3,7 @@ node_modules
 dist
 .next
 .vercel
+package-lock.json
 *.log
 .DS_Store
 server/uploads
